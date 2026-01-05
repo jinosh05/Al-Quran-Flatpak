@@ -32,9 +32,8 @@
       ],
       "sources": [
         {
-          "type": "archive",
-          "url": "https://github.com/jinosh05/quran/archive/refs/tags/v1.0.0.tar.gz",
-          "sha256": "CHECK_SHA256_AND_REPLACE_ME"
+          "type": "dir",
+          "path": "build_output"
         },
         {
             "type": "script",
